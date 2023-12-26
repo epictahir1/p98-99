@@ -1,0 +1,42 @@
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+img
+{
+    width: 500px;
+    border: 1px solid yellow;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 red;
+    border-radius: 4px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+}
+body{
+    background: gray;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+h4{
+    color: maroon;
+}
+img:hover{
+    border-radius: 140px;
+
+}
+.column{
+    display: inline;
+    padding:10px;
+}
